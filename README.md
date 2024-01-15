@@ -1,0 +1,1 @@
+Fuwichiba (ふうぃ市場) also known as "Fluffy Market" is a Full-Stack E-Commerce website project made by Patrick Donghil (@SavoryBanana) and Paul Marren Claveron (@luminacht) using the MERN stack. It will showcase most of the basic functionalities of an e-commerce website that we can implement.
